@@ -1,3 +1,3 @@
-# my-stuff
+# dotfiles
 
-Just a repo to hold some things that I like to keep at hand, like configuration files and useful scripts.
+Configuration files for vim, i3, bash...
