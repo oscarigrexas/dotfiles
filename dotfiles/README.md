@@ -1,3 +1,0 @@
-# dotfiles
-
-Configuration files for vim, i3, bash...
